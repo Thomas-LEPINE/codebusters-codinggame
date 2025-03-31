@@ -1,1 +1,1 @@
-# codebusters-codinggame
+# Coding challenge codebusters 2024
